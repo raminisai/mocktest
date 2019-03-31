@@ -1,2 +1,0 @@
-# mocktest
-Created with CodeSandbox

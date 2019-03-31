@@ -1,0 +1,25 @@
+{
+  "name": "mocktestp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs": "1.0.1",
+    "https-browserify": "1.0.0",
+    "jquery": "3.3.1",
+    "keyword-extractor": "0.0.15",
+    "languagedetect": "1.2.0",
+    "sentiment": "5.0.1"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "@types/@babel": "latest",
+    "@types/jquery": "3.3.29",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}

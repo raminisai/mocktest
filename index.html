@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Voice Controlled Notes App</title>
+	<meta name="description" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/shoelace-css/1.0.0-beta16/shoelace.css">
+	<link rel="stylesheet" href="src/styles.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
+	</script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js">
+	</script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js">
+	</script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.9.1/underscore-min.js">
+	
+	</script>
+	<style>
+	</style>
+</head>
+
+<body>
+
+	<h3 style="font-family:Georgia">Manoj Kumar</h3>
+
+  	<div class="container">
+  	<div class="card">
+			<div class="card-body">
+		<h1 id="question" >Voice Controlled  Exam </h1>
+		</div>	
+			</div><!-- <p class="page-description">A tiny app that allows you to take notes by recording your voice</p>
+		<p><a class="tz-link" href="https://tutorialzine.com/2017/08/converting-from-speech-to-text-with-javascript">Read the full
+				article on Tutorialzine »</a></p> -->
+
+	<h3 class="no-browser-support">Sorry, Your Browser Doesn't Support the Web Speech API. Try Opening This Demo In Google Chrome.
+	</h3>
+
+	<div class="app">
+		<h3>Answer</h3>
+		<div class="input-single">
+			<textarea id="note-textarea" placeholder="breifly answer to the quetion " rows="6"></textarea>
+                </div>         
+                <button id="start-record-btn" title="Start Recording">Start Recognition</button>
+                <button id="pause-record-btn" title="Pause Recording">Pause Recognition</button>
+                <button id="save-note-btn" title="Save Note">Save Note</button>   
+                <p id="recording-instructions">Press the <strong>Start Recognition</strong> button and allow access.</p>
+                
+                <h3>My Notes</h3>
+                <ul id="notes">
+                    <li>
+                        <p class="no-notes">You don't have any notes.</p>
+                    </li>
+                </ul>
+
+            </div>
+
+        </div>
+				<!-- The Modal -->
+				<div class="modal" id="my-modal">
+					<div class="modal-dialog">
+						<div class="modal-content">
+				
+							<!-- Modal Header -->
+							<div class="modal-header">
+								<h4 class="modal-title">Result</h4>
+								<button type="button" class="close" data-dismiss="modal">&times;</button>
+				      </div>
+				
+				      <!-- Modal body -->
+				      <div class="modal-body" id="modal-body">
+								Technical knowledge very low...improve skills
+				        <br/>
+				      </div>
+				
+				      <!-- Modal footer -->
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+				      </div>
+				
+				    </div>
+				  </div>
+				</div>
+
+        <script src="src/index.js"></script>
+
+        <!-- Only used for the demos ads. Please ignore and remove. --> 
+        <!-- <script src="https://cdn.tutorialzine.com/misc/enhance/v3.js" async></script> -->
+        <p id="response">
+        </p>
+
+    </body>
+</html>

@@ -1,0 +1,596 @@
+[
+  {
+    "vocabulary": 0.91,
+    "technical": 0.92,
+    "sentiment": 0,
+    "result": "0"
+  },
+  {
+    "vocabulary": 0.89,
+    "technical": 0.9,
+    "sentiment": 0,
+    "result": "1"
+  },
+  {
+    "vocabulary": 0.91,
+    "technical": 0.97,
+    "sentiment": 1,
+    "result": "0"
+  },
+  {
+    "vocabulary": 0.95,
+    "technical": 0.92,
+    "sentiment": 1,
+    "result": "0"
+  },
+  {
+    "vocabulary": 0.79,
+    "technical": 0.89,
+    "sentiment": 1,
+    "result": "2"
+  },
+  {
+    "vocabulary": 0.97,
+    "technical": 0.99,
+    "sentiment": 0,
+    "result": "0"
+  },
+  {
+    "vocabulary": 0.91,
+    "technical": 0.89,
+    "sentiment": 1,
+    "result": "1"
+  },
+  {
+    "vocabulary": 0.71,
+    "technical": 0.73,
+    "sentiment": 1,
+    "result": "3"
+  },
+  {
+    "vocabulary": 0.94,
+    "technical": 0.92,
+    "sentiment": 0,
+    "result": "0"
+  },
+  {
+    "vocabulary": 0.96,
+    "technical": 0.95,
+    "sentiment": 1,
+    "result": "0"
+  },
+  {
+    "vocabulary": 0.9,
+    "technical": 0.85,
+    "sentiment": 0,
+    "result": "1"
+  },
+  {
+    "vocabulary": 0.7,
+    "technical": 0.72,
+    "sentiment": 1,
+    "result": "3"
+  },
+  {
+    "vocabulary": 0.86,
+    "technical": 0.75,
+    "sentiment": 1,
+    "result": "2"
+  },
+  {
+    "vocabulary": 0.81,
+    "technical": 0.72,
+    "sentiment": 1,
+    "result": "2"
+  },
+  {
+    "vocabulary": 0.9,
+    "technical": 0.97,
+    "sentiment": 1,
+    "result": "0"
+  },
+  {
+    "vocabulary": 0.81,
+    "technical": 0.92,
+    "sentiment": 0,
+    "result": "1"
+  },
+  {
+    "vocabulary": 0.91,
+    "technical": 0.86,
+    "sentiment": 1,
+    "result": "1"
+  },
+  {
+    "vocabulary": 0.91,
+    "technical": 0.92,
+    "sentiment": 0,
+    "result": "0"
+  },
+  {
+    "vocabulary": 0.71,
+    "technical": 0.72,
+    "sentiment": 1,
+    "result": "3"
+  },
+  {
+    "vocabulary": 0.81,
+    "technical": 0.72,
+    "sentiment": 1,
+    "result": "2"
+  },
+  {
+    "vocabulary": 0.76,
+    "technical": 0.72,
+    "sentiment": 1,
+    "result": "3"
+  },
+  {
+    "vocabulary": 0.7,
+    "technical": 0.72,
+    "sentiment": 0,
+    "result": "2"
+  },
+  {
+    "vocabulary": 0.81,
+    "technical": 0.89,
+    "sentiment": 1,
+    "result": "1"
+  },
+  {
+    "vocabulary": 0.71,
+    "technical": 0.72,
+    "sentiment": 1,
+    "result": "3"
+  },
+  {
+    "vocabulary": 0.73,
+    "technical": 0.76,
+    "sentiment": 1,
+    "result": "3"
+  },
+  {
+    "vocabulary": 0.76,
+    "technical": 0.7,
+    "sentiment": 1,
+    "result": "2"
+  },
+  {
+    "vocabulary": 0.83,
+    "technical": 0.8,
+    "sentiment": 1,
+    "result": "1"
+  },
+  {
+    "vocabulary": 0.91,
+    "technical": 0.82,
+    "sentiment": 1,
+    "result": "1"
+  },
+  {
+    "vocabulary": 0.83,
+    "technical": 0.72,
+    "sentiment": 0,
+    "result": "2"
+  },
+  {
+    "vocabulary": 0.71,
+    "technical": 0.73,
+    "sentiment": 0,
+    "result": "3"
+  },
+  {
+    "vocabulary": 0.7,
+    "technical": 0.72,
+    "sentiment": 1,
+    "result": "2"
+  },
+  {
+    "vocabulary": 0.7,
+    "technical": 0.73,
+    "sentiment": 0,
+    "result": "3"
+  },
+  {
+    "vocabulary": 0.99,
+    "technical": 0.92,
+    "sentiment": 1,
+    "result": "0"
+  },
+  {
+    "vocabulary": 0.91,
+    "technical": 0.92,
+    "sentiment": 0,
+    "result": "0"
+  },
+  {
+    "vocabulary": 0.91,
+    "technical": 0.89,
+    "sentiment": 1,
+    "result": "1"
+  },
+  {
+    "vocabulary": 0.71,
+    "technical": 0.82,
+    "sentiment": 1,
+    "result": "2"
+  },
+  {
+    "vocabulary": 0.7,
+    "technical": 0.75,
+    "sentiment": 1,
+    "result": "3"
+  },
+  {
+    "vocabulary": 0.71,
+    "technical": 0.7,
+    "sentiment": 1,
+    "result": "3"
+  },
+  {
+    "vocabulary": 0.71,
+    "technical": 0.72,
+    "sentiment": 0,
+    "result": "2"
+  },
+  {
+    "vocabulary": 0.81,
+    "technical": 0.8,
+    "sentiment": 1,
+    "result": "1"
+  },
+  {
+    "vocabulary": 0.99,
+    "technical": 0.99,
+    "sentiment": 0,
+    "result": "0"
+  },
+  {
+    "vocabulary": 0.9,
+    "technical": 0.92,
+    "sentiment": 1,
+    "result": "0"
+  },
+  {
+    "vocabulary": 0.81,
+    "technical": 0.85,
+    "sentiment": 1,
+    "result": "1"
+  },
+  {
+    "vocabulary": 0.71,
+    "technical": 0.73,
+    "sentiment": 1,
+    "result": "2"
+  },
+  {
+    "vocabulary": 0.73,
+    "technical": 0.7,
+    "sentiment": 0,
+    "result": "3"
+  },
+  {
+    "vocabulary": 0.71,
+    "technical": 0.73,
+    "sentiment": 1,
+    "result": "3"
+  },
+  {
+    "vocabulary": 0.7,
+    "technical": 0.7,
+    "sentiment": 1,
+    "result": "2"
+  },
+  {
+    "vocabulary": 0.8,
+    "technical": 0.86,
+    "sentiment": 1,
+    "result": "1"
+  },
+  {
+    "vocabulary": 0.9,
+    "technical": 0.9,
+    "sentiment": 0,
+    "result": "0"
+  },
+  {
+    "vocabulary": 0.93,
+    "technical": 0.97,
+    "sentiment": 1,
+    "result": "0"
+  },
+  {
+    "vocabulary": 0.82,
+    "technical": 0.85,
+    "sentiment": 1,
+    "result": "1"
+  },
+  {
+    "vocabulary": 0.7,
+    "technical": 0.85,
+    "sentiment": 0,
+    "result": "2"
+  },
+  {
+    "vocabulary": 0.77,
+    "technical": 0.77,
+    "sentiment": 0,
+    "result": "3"
+  },
+  {
+    "vocabulary": 0.91,
+    "technical": 0.99,
+    "sentiment": 1,
+    "result": "0"
+  },
+  {
+    "vocabulary": 0.71,
+    "technical": 0.72,
+    "sentiment": 0,
+    "result": "3"
+  },
+  {
+    "vocabulary": 0.7,
+    "technical": 0.72,
+    "sentiment": 0,
+    "result": "2"
+  },
+  {
+    "vocabulary": 0.91,
+    "technical": 0.82,
+    "sentiment": 1,
+    "result": "1"
+  },
+  {
+    "vocabulary": 0.79,
+    "technical": 0.7,
+    "sentiment": 0,
+    "result": "3"
+  },
+  {
+    "vocabulary": 0.7,
+    "technical": 0.82,
+    "sentiment": 0,
+    "result": "2"
+  },
+  {
+    "vocabulary": 0.8,
+    "technical": 0.89,
+    "sentiment": 1,
+    "result": "1"
+  },
+  {
+    "vocabulary": 0.9,
+    "technical": 0.99,
+    "sentiment": 0.99,
+    "result": "0"
+  },
+  {
+    "vocabulary": 0.97,
+    "technical": 0.92,
+    "sentiment": 1,
+    "result": "0"
+  },
+  {
+    "vocabulary": 0.89,
+    "technical": 0.83,
+    "sentiment": 1,
+    "result": "1"
+  },
+  {
+    "vocabulary": 0.8,
+    "technical": 0.72,
+    "sentiment": 0,
+    "result": "2"
+  },
+  {
+    "vocabulary": 0.71,
+    "technical": 0.7,
+    "sentiment": 0,
+    "result": "3"
+  },
+  {
+    "vocabulary": 0.9,
+    "technical": 0.92,
+    "sentiment": 1,
+    "result": "0"
+  },
+  {
+    "vocabulary": 0.8,
+    "technical": 0.86,
+    "sentiment": 1,
+    "result": "1"
+  },
+  {
+    "vocabulary": 0.81,
+    "technical": 0.76,
+    "sentiment": 1,
+    "result": "2"
+  },
+  {
+    "vocabulary": 0.75,
+    "technical": 0.73,
+    "sentiment": 0,
+    "result": "3"
+  },
+  {
+    "vocabulary": 0.86,
+    "technical": 0.87,
+    "sentiment": 1,
+    "result": "1"
+  },
+  {
+    "vocabulary": 0.99,
+    "technical": 0.96,
+    "sentiment": 1,
+    "result": "0"
+  },
+  {
+    "vocabulary": 0.79,
+    "technical": 0.76,
+    "sentiment": 1,
+    "result": "3"
+  },
+  {
+    "vocabulary": 0.8,
+    "technical": 0.72,
+    "sentiment": 0,
+    "result": "2"
+  },
+  {
+    "vocabulary": 0.7,
+    "technical": 0.7,
+    "sentiment": 0,
+    "result": "3"
+  },
+  {
+    "vocabulary": 0.71,
+    "technical": 0.7,
+    "sentiment": 1,
+    "result": "2"
+  },
+  {
+    "vocabulary": 0.8,
+    "technical": 0.8,
+    "sentiment": 0.93,
+    "result": "1"
+  },
+  {
+    "vocabulary": 0.91,
+    "technical": 0.97,
+    "sentiment": 1,
+    "result": "0"
+  },
+  {
+    "vocabulary": 0.97,
+    "technical": 0.9,
+    "sentiment": 1,
+    "result": "0"
+  },
+  {
+    "vocabulary": 0.81,
+    "technical": 0.89,
+    "sentiment": 1,
+    "result": "1"
+  },
+  {
+    "vocabulary": 0.71,
+    "technical": 0.7,
+    "sentiment": 1,
+    "result": "2"
+  },
+  {
+    "vocabulary": 0.76,
+    "technical": 0.72,
+    "sentiment": 0,
+    "result": "3"
+  },
+  {
+    "vocabulary": 0.71,
+    "technical": 0.7,
+    "sentiment": 0,
+    "result": "3"
+  },
+  {
+    "vocabulary": 0.71,
+    "technical": 0.79,
+    "sentiment": 1,
+    "result": "2"
+  },
+  {
+    "vocabulary": 0.81,
+    "technical": 0.8,
+    "sentiment": 1,
+    "result": "1"
+  },
+  {
+    "vocabulary": 0.9,
+    "technical": 0.97,
+    "sentiment": 1,
+    "result": "0"
+  },
+  {
+    "vocabulary": 0.97,
+    "technical": 0.9,
+    "sentiment": 1,
+    "result": "0"
+  },
+  {
+    "vocabulary": 0.89,
+    "technical": 0.8,
+    "sentiment": 1,
+    "result": "1"
+  },
+  {
+    "vocabulary": 0.79,
+    "technical": 0.72,
+    "sentiment": 1,
+    "result": "2"
+  },
+  {
+    "vocabulary": 0.71,
+    "technical": 0.7,
+    "sentiment": 0,
+    "result": "3"
+  },
+  {
+    "vocabulary": 0.76,
+    "technical": 0.72,
+    "sentiment": 0,
+    "result": "3"
+  },
+  {
+    "vocabulary": 0.71,
+    "technical": 0.7,
+    "sentiment": 1,
+    "result": "2"
+  },
+  {
+    "vocabulary": 0.81,
+    "technical": 0.87,
+    "sentiment": 1,
+    "result": "1"
+  },
+  {
+    "vocabulary": 0.7,
+    "technical": 0.72,
+    "sentiment": 0,
+    "result": "3"
+  },
+  {
+    "vocabulary": 0.9,
+    "technical": 0.92,
+    "sentiment": 1,
+    "result": "0"
+  },
+  {
+    "vocabulary": 0.82,
+    "technical": 0.87,
+    "sentiment": 0,
+    "result": "1"
+  },
+  {
+    "vocabulary": 0.91,
+    "technical": 0.99,
+    "sentiment": 1,
+    "result": "0"
+  },
+  {
+    "vocabulary": 0.71,
+    "technical": 0.73,
+    "sentiment": 1,
+    "result": "3"
+  },
+  {
+    "vocabulary": 0.87,
+    "technical": 0.82,
+    "sentiment": 1,
+    "result": "1"
+  },
+  {
+    "vocabulary": 0.71,
+    "technical": 0.7,
+    "sentiment": 1,
+    "result": "2"
+  }
+]
